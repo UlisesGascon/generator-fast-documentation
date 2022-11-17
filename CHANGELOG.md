@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/UlisesGascon/generator-fast-documentation/v1.0.0...v1.1.0) (2022-11-17)
+
+
+### Features
+
+* added docker build step to CI ([d420c94](https://github.com/UlisesGascon/generator-fast-documentation/commit/d420c949cc581ad81d025e5c002f22cfd0028853))
+
+
+### Bug Fixes
+
+* typo in the CI job name ([eea0f10](https://github.com/UlisesGascon/generator-fast-documentation/commit/eea0f1083e7abae1f9b8ddd9120aa626d7fd2649))
+
+
+### Other
+
+* added markdown/mdx reference ([49a2402](https://github.com/UlisesGascon/generator-fast-documentation/commit/49a24023f02364e15960a8ae37964faccd9b8cce))
+
 ## [1.0.0](https://github.com/UlisesGascon/generator-fast-documentation/v0.0.1...v1.0.0) (2022-11-17)
 
 
