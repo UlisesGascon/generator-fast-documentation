@@ -28,10 +28,11 @@
     "standard-version": "9.5.0",
     "yeoman-assert": "3.1.1",
     "yeoman-test": "1.7.0",
-    "husky": "^7.0.0"
+    "husky": "7.0.0"
   },
   "engines": {
-    "npm": ">= 4.0.0"
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
   },
   "dependencies": {
     "chalk": "2.1.0",
