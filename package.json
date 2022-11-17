@@ -1,0 +1,68 @@
+{
+  "name": "generator-fast-documentation",
+  "version": "0.0.0",
+  "description": "A yeoman-based template to generate a great documentation website",
+  "homepage": "https://github.com/UlisesGascon/generator-fast-documentation",
+  "author": {
+    "name": "Ulises Gascón",
+    "url": "https://ulisesgascon.com"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "yeoman",
+    "generator",
+    "documentation",
+    "docusaurus",
+    "docker",
+    "k8s",
+    "yeoman-generator"
+  ],
+  "devDependencies": {
+    "@commitlint/cli": "17.2.0",
+    "@commitlint/config-conventional": "17.2.0",
+    "jest": "26.1.0",
+    "standard": "17.0.0",
+    "standard-version": "9.5.0",
+    "yeoman-assert": "3.1.1",
+    "yeoman-test": "1.7.0",
+    "husky": "^7.0.0"
+  },
+  "engines": {
+    "npm": ">= 4.0.0"
+  },
+  "dependencies": {
+    "chalk": "2.1.0",
+    "yeoman-generator": "3.1.1",
+    "yosay": "2.0.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  },
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix",
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:major": "standard-version --release-as major",
+    "test": "jest --logHeapUsage --detectOpenHandles --forceExit  --verbose --color",
+    "test:coverage": "jest --logHeapUsage --detectOpenHandles --forceExit --verbose --coverage --color",
+    "test:watch": "jest --logHeapUsage --detectOpenHandles --forceExit --verbose --watchAll --color",
+    "prepare": "husky install"
+  },
+  "repository": "https://github.com/UlisesGascon/generator-fast-documentation",
+  "license": "MIT"
+}
