@@ -1,6 +1,6 @@
 {
   "name": "generator-fast-documentation",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A yeoman-based template to generate a great documentation website",
   "homepage": "https://github.com/UlisesGascon/generator-fast-documentation",
   "author": {
