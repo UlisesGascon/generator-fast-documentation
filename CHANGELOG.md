@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/UlisesGascon/generator-fast-documentation/v0.0.1...v1.0.0) (2022-11-17)
+
+
+### Features
+
+* added main generator business logic ([6198da9](https://github.com/UlisesGascon/generator-fast-documentation/commit/6198da941ad0ab6f764a3e04e2c531587ee8670e))
+* added tests ([aac49bb](https://github.com/UlisesGascon/generator-fast-documentation/commit/aac49bb8c573bc52ee171754ed441eb805edaad7))
+
+
+### Other
+
+* added proper documentation ([74df226](https://github.com/UlisesGascon/generator-fast-documentation/commit/74df226ca0fa2d422c5f97b8aa10a7d4402f5e65))
+
 ### [0.0.1](https://github.com/UlisesGascon/generator-fast-documentation/v0.0.0...v0.0.1) (2022-11-17)
 
 
