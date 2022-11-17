@@ -1,0 +1,14 @@
+{
+    "types": [
+      {"type": "feat", "section": "Features"},
+      {"type": "fix", "section": "Bug Fixes"},
+      {"type": "chore", "section": "Other"},
+      {"type": "docs", "section": "Other"},
+      {"type": "style", "hidden": true},
+      {"type": "refactor", "section": "Other"},
+      {"type": "perf", "hidden": true},
+      {"type": "test", "hidden": true}
+    ],
+    "commitUrlFormat": "https://github.com/UlisesGascon/generator-fast-documentation/commit/{{hash}}",
+    "compareUrlFormat": "https://github.com/UlisesGascon/generator-fast-documentation/{{previousTag}}...{{currentTag}}"
+}
