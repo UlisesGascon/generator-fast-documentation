@@ -28,7 +28,7 @@ A yeoman-based template to generate a great documentation website.
 - Simple CI with github Actions out-of-the-box 📦
 - Just few simple questions to generate the perfect documentation 💪
 - Easy to use and great test coverage ✅
-
+- Add your content with [Markdown](https://docusaurus.io/docs/markdown-features) and [MDX](https://docusaurus.io/docs/markdown-features/react) 🚂
 
 
 ## Usage
