@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/UlisesGascon/generator-fast-documentation/v1.1.0...v1.1.1) (2023-02-03)
+
+
+### Other
+
+* added youtube tutorial ([3f7b9ee](https://github.com/UlisesGascon/generator-fast-documentation/commit/3f7b9ee0a27911e45d754c8bdc18b2598654ba08))
+
 ## [1.1.0](https://github.com/UlisesGascon/generator-fast-documentation/v1.0.0...v1.1.0) (2022-11-17)
 
 
