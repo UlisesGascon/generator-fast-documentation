@@ -31,6 +31,10 @@ A yeoman-based template to generate a great documentation website.
 - Add your content with [Markdown](https://docusaurus.io/docs/markdown-features) and [MDX](https://docusaurus.io/docs/markdown-features/react) 🚂
 
 
+## Tutorial
+
+[![promotional banner from youtube](.github/img/banner.png)](https://youtu.be/Gpdw-oDIgBQ)
+
 ## Usage
 
 You need to install [Yeoman](https://www.npmjs.com/package/yo)
